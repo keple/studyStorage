@@ -1,0 +1,16 @@
+.nav_item{
+    list-style: none;
+    color:white;
+    cursor:pointer;
+  }
+  .nav_item li{
+    display:inline-flex;
+    padding:0px 20px;
+    margin:2px;
+  }
+  .nav_item li a{
+    transition :all 0.3s ease 0s;
+  }
+  .nav_item li a:hover{
+    color:#0088a9;
+  }
